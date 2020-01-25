@@ -1,0 +1,14 @@
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\bin\Debug\VMD-10X Controller.exe.config
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\bin\Debug\VMD-10X Controller.exe
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\bin\Debug\VMD-10X Controller.pdb
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD_10X_Controller.MainForm.resources
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD_10X_Controller.Properties.Resources.resources
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD-10X Controller.csproj.GenerateResource.cache
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD-10X Controller.exe
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD-10X Controller.pdb
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD_10X_Controller.OptionsForm.resources
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD_10X_Controller.Modes.Mode_Positioning.resources
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD_10X_Controller.Modes.Mode_Scan2D.resources
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD_10X_Controller.AppLog.resources
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD_10X_Controller.SpeedPicker.resources
+Y:\Projects\Coding\Visual Studio\C#\VMD-10X Controller\VMD-10X Controller\obj\Debug\VMD-10X Controller.csprojAssemblyReference.cache

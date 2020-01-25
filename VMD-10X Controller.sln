@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMD-10X Controller", "VMD-10X Controller\VMD-10X Controller.csproj", "{C3B38D65-D23A-4A40-9490-568623A8063B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B38D65-D23A-4A40-9490-568623A8063B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B38D65-D23A-4A40-9490-568623A8063B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B38D65-D23A-4A40-9490-568623A8063B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B38D65-D23A-4A40-9490-568623A8063B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D449A095-FFEE-4CE8-B966-D233A4DC8C23}
+	EndGlobalSection
+EndGlobal
